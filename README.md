@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-melodia-de-tu-risa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for La melodía de tu risa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-melodia-de-tu-risa/) |
+| **Get License** | [Get License For La melodía de tu risa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-melodia-de-tu-risa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada tuya en medio de la disco
+> Baby, tú me tienes en un vuelo y no aterrizo
+> Bailando en lo oscuro, rompemos el piso
+> Tus labios de seda son mi paraíso
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
