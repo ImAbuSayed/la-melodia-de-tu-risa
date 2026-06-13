@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - La melodía de tu risa
+
+This log tracks the cryptographic history and versioning for the song **La melodía de tu risa** (la-melodia-de-tu-risa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:39:44.538844 | `v1` | `5bf95c782ebdda48f2073237a66d0bd6a903d96d049d2824cbd873097201a487` | `33e554433947c47667ed3e6a81da14b3ba67adb98f51da93ba49e01d215ab1e0` | `2026-06-14_la-melodia-de-tu-risa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
